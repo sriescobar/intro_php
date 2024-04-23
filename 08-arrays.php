@@ -13,5 +13,6 @@ echo "<pre>";
 var_dump($carrito);
 echo "</pre>";
 echo "<br>";
+echo "<br>";
 
 include 'includes/footer.php';
