@@ -8,11 +8,10 @@ $carrito = ['Tablet','TV', 'Computadora'];
 //Ver datos en la posición
 echo $carrito[0];
 
-$carrito [3] = "Nuevo elemento...";
+$carrito [3] = "Nuevo elementossssss...";
 echo "<pre>";
 var_dump($carrito);
 echo "</pre>";
-echo "<br>";
-echo "<br>";
+
 
 include 'includes/footer.php';
