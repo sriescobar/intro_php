@@ -7,6 +7,7 @@ echo strlen($nombreCliente);
 
 echo "<br>";
 
+
 //Eliminar espacios en blanco
 $texto = trim($nombreCliente);
 echo strlen($texto);
